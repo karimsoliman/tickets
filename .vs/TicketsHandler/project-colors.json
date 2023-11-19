@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcb9bfcf-1e26-4aaf-b4f8-f5b1ab64ffb7": {
+      "ProjectGuid": "fcb9bfcf-1e26-4aaf-b4f8-f5b1ab64ffb7",
+      "DisplayName": "TicketsHandler",
+      "ColorIndex": 0
+    },
+    "3af9c5de-3ea9-435b-8ccf-2d8b1e5ed563": {
+      "ProjectGuid": "3af9c5de-3ea9-435b-8ccf-2d8b1e5ed563",
+      "DisplayName": "TicketsHandler.Data",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
